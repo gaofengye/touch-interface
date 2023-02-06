@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/touch-interface/static/css/main.b2aa21ed.css",
+    "main.css": "/touch-interface/static/css/main.6ac46487.css",
     "main.js": "/touch-interface/static/js/main.74b47edb.js",
     "static/js/787.84f17e64.chunk.js": "/touch-interface/static/js/787.84f17e64.chunk.js",
     "service-worker.js": "/touch-interface/service-worker.js",
     "index.html": "/touch-interface/index.html",
-    "main.b2aa21ed.css.map": "/touch-interface/static/css/main.b2aa21ed.css.map",
+    "main.6ac46487.css.map": "/touch-interface/static/css/main.6ac46487.css.map",
     "main.74b47edb.js.map": "/touch-interface/static/js/main.74b47edb.js.map",
     "787.84f17e64.chunk.js.map": "/touch-interface/static/js/787.84f17e64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2aa21ed.css",
+    "static/css/main.6ac46487.css",
     "static/js/main.74b47edb.js"
   ]
 }
