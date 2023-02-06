@@ -1,0 +1,30 @@
+.page {
+  display: flex;
+  height: 100vh;
+}
+
+.canvas {
+  width: 30%;
+  height: 100%;
+}
+
+.map {
+  height: 100%;
+  width: 70%;
+  display: flex;
+}
+
+@media (max-width: 768px) {
+  .page {
+    flex-direction: column;
+  }
+  .canvas {
+    width: 100%;
+    height: 50%;
+  }
+
+  .map {
+    width: 100%;
+    height: 50%;
+  }
+}
